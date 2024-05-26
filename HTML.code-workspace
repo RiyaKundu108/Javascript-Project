@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "HTML",
+			"path": "."
+		},
+		{
+			"path": "../Desktop/JAVA PROGRAMS"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
